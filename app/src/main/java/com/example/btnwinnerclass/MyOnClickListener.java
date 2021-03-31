@@ -10,6 +10,6 @@ public class MyOnClickListener implements View.OnClickListener {
 
     @Override
     public void onClick(View v) {
-        mainActivity.mTextView1.setText("You clicked button 1");
+        mainActivity.mTextView1.setText("You clicked button 1!");
     }
 }
